@@ -20,6 +20,7 @@ This project implements an EMI (Equated Monthly Installment) calculator with Seq
    ```bash
    git clone https://github.com/vivek3410/EMI-Calculator-PG
    cd EMI-Calculator-PG
+   git switch master
    ```
 2. Install Dependencies
    Ensure you have Node.js installed. Install the required packages using npm:
